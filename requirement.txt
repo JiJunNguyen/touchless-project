@@ -1,0 +1,6 @@
+mediapipe
+opencv-python
+time
+numpy
+pycaw
+math
